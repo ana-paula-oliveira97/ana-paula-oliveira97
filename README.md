@@ -5,28 +5,34 @@
 
 ### Sobre mim 🤓
 Meu nome é Ana Paula de Oliveira.
-- Estudo Sistemas para Internet (Fatec Taquaritinga);
+- Futura Desenvolvedora de Games;
 - Gosto  de Astronomia, Games etc;
 - Sinto que **programação** me tirou do fundo do poço, então tenho um carinho muito grande por ela;
-- Sou uma pessoa que tenta ao maximo aprender / fazer o que me é pedido.
+- Sou uma pessoa que tenta ao maximo aprender / fazer o que me é pedido;
+
 
 # O que ja aprendi.📒
 - HTML & CSS;
 - Adobe Illustrator;
+- Adobe photshop;
+- Adobe premiere pro;
 - C#;
 - PHP;
+- Java;
 - MYSQL;
-- Delphi (preciso revisionar algumas coisas, pois ja faz tempo);
-
-## O que estou aprendendo.📚
-- Laravel;
-- Vue.JS e Nuxt.js (estou reforçando esse conteudo);
-- Javascript (reforçando alguns conseitos);
+- Delphi;
+- Vue.js;
+- Nuxt.js;
+- Android Studio;
+- Power app;
+- IA;
 - Cybersecurity;
+- Javascript;
 
-## O que predendo aprender.🚀
+
+## O que pretendo aprender.🚀
 - C++;
 - Lua script;
 - Python;
 - Rust;
-- Java;
+
